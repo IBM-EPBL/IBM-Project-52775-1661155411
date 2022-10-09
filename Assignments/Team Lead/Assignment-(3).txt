@@ -1,13 +1,14 @@
-                                                                                                                                                               ASSIGNMENT-3
-                                                       
-                                                                                                                                                                    PYTHON PROGRAMMING
+          ASSIGNMENT-3
+                                            
+       PYTHON PROGRAMMING
 
                               
-                                                                                                                                                                    Assignment Date  -  09 Oct 2022
+   Assignment Date  -  09 Oct 2022
                                                 
-                                                                                                                                                                  Student Name     -  Srudhik Raj.H
+   Student Name     -  Srudhik Raj.H
                  
-                                                                                                                                                                     Student Roll No  - 412319106011
+     
+   Student Roll No  - 412319106011
  
  
 
