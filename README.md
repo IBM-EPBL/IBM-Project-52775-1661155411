@@ -8,10 +8,10 @@ Team ID : PNT2022TMID38240
 
 Team Size : 4
 
-Team Leader : SRUDHIKRAJ H
+Team Leader 1 : SRUDHIKRAJ H
 
-Team member : THILAGAVATHY K
+Team member 2 : THILAGAVATHY K
 
-Team member : KIRUTHIKA R
+Team member 3 : KIRUTHIKA R
 
-Team member : AISHWARYA A
+Team member 4 : AISHWARYA A
