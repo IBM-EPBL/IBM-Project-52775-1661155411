@@ -6,7 +6,7 @@ Signs with Smart Connectivity for Better Road Safety
 
 Team ID : PNT2022TMID38240
 
-Team Size : 4
+Team Size : 5
 
 Team Leader  : SRUDHIKRAJ H
 
