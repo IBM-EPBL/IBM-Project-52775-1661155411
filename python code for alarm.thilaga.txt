@@ -1,7 +1,0 @@
-temperature int(input("enter temperature"))
-humidity=50
-while(temperature>110):
-   print("alarm")
-   temperature=temperature+1 
-if(temperature<=110):
-   print("stop")
